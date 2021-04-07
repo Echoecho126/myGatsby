@@ -44,7 +44,7 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
+           <strong>{author.name}</strong> {author?.summary || null}
           {` `}
           <a href={`https://github.com/${social?.github || ``}`}>
             欢迎关注我的github
