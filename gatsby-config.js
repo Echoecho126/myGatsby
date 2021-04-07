@@ -3,12 +3,12 @@ module.exports = {
     title: `四火的小屋`,
     author: {
       name: `Lychee02`,
-      summary: `勤奋`,
+      summary: `加油鸭`,
     },
     description: `三人行必有我师焉`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      github: `Echoecho126`,
     },
   },
   plugins: [
